@@ -270,3 +270,9 @@ f #toggle {
 .el-icon-arrow-dow {
   display: none !important;
 }
+
+@media only screen and (min-width: 1200px) {
+  .el-col-lg-14 {
+    width: 58.33333% !important;
+  }
+}
